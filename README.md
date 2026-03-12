@@ -241,6 +241,6 @@ Through this project, I demonstrated the following skills:
 
 ## Author
 
-**Mithun MH**
+**Mithun Appuhamy**
 BSc IT Undergraduate – SLIIT
 Interested in **Data Engineering, BI Engineering, and Data Analytics**
